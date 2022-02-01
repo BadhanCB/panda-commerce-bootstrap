@@ -26,7 +26,8 @@
     border: none;
     border-radius: 10px 0 0 10px;
     margin-right: 0 !important;
-    outline-color: rgb(218, 218, 218);
+    outline-color: rgb(196, 196, 196);
+    outline-width: 7px;
 }
 .email-input-field::placeholder{
     color: #CCCCCC;
