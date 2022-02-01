@@ -22,3 +22,17 @@
 .text-justify{
     text-align: justify;
 }
+.email-input-field{
+    border: none;
+    border-radius: 10px 0 0 10px;
+    margin-right: 0 !important;
+    outline-color: rgb(218, 218, 218);
+}
+.email-input-field::placeholder{
+    color: #CCCCCC;
+}
+.submit-button{
+    margin-left: 0 !important;
+    border-radius: 0 10px 10px 0;
+    padding: 15px 25px;
+}
