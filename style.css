@@ -1,8 +1,11 @@
 .w-max-content{
     width: max-content;
 }
+.w-fit-content{
+    width: fit-content;
+}
 .border-radius-lg{
-    border-radius: 1.3rem;
+    border-radius: 1rem;
 }
 .gradient-btn{
     background-image: linear-gradient(to top, #FF136F, #ff79ad);
